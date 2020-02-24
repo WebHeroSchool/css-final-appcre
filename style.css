@@ -1,3 +1,137 @@
-.menu__item {
-	font-family: Roboto;
+.logo {
+	position: absolute;
+	width: 190px;
+	height: 35px;
+	left: 219px;
+	top: 40px;
+}
+
+.menu {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000;
+}
+
+.menu__start {
+	position: absolute;
+	width: 30px;
+	height: 17px;
+	left: calc(50% - 30px/2 + 166px);
+	top: 51px;
+}
+
+.menu__services {
+	position: absolute;
+	width: 53px;
+	height: 17px;
+	left: calc(50% - 53px/2 + 231.5px);
+	top: 51px;
+}
+
+.menu__about {
+	position: absolute;
+	width: 36px;
+	height: 17px;
+	left: calc(50% - 36px/2 + 300px);
+	top: 51px;
+}
+
+.menu__blog {
+	position: absolute;
+	width: 28px;
+	height: 17px;
+	left: calc(50% - 28px/2 + 359px);
+	top: 51px;
+}
+
+.menu__contact-us {
+	position: absolute;
+	width: 66px;
+	height: 17px;
+	left: calc(50% - 66px/2 + 433px);
+	top: 51px;
+}
+
+.frame {
+  position: absolute;
+  width: 514px;
+  height: 439px;
+  left: calc(50% - 514px/2 + 208px);
+  top: 195px;
+}
+
+.fill_wd {
+	position: absolute;
+	width: 330px;
+	height: 53px;
+	left: calc(50% - 380px/2 - 274px);
+	top: 286px;
+
+	background: #ECF3FF;
+}
+.fill_exp {
+	position: absolute;
+	width: 203px;
+	height: 53px;
+	left: calc(50% - 226px/2 - 351px);
+	top: 353px;
+
+	background: #ECF3FF;
+}
+
+.title {
+  position: absolute;
+  width: 434px;
+  height: 199px;
+  left: calc(50% - 434px/2 - 249px);
+  top: 170px;
+
+  font-family: PT Serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 66px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.article {
+  position: absolute;
+  width: 367px;
+  height: 43px;
+  left: calc(50% - 367px/2 - 281.5px);
+  top: 447px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.button {
+	position: absolute;
+	width: 209px;
+	height: 44px;
+	left: calc(50% - 209px/2 - 359.5px);
+	top: 531px;
+
+	background: #0056EC;
+	border-radius: 4px;
+}
+
+.button__text {
+	color: white;
+}
+
+.footer {
+  position: absolute;
+  width: 32px;
+  height: 8px;
+  left: 667px;
+  top: 620px;
 }
