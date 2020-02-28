@@ -1,4 +1,4 @@
-@media (max-width: 400px) {
+@media (max-width: 599px) {
 
 .menu__icon {
    display: none;
@@ -250,7 +250,8 @@
 	}
 }
 
-@media (min-width: 1024px) {
+
+@media (min-width: 600px) {
 	.logo {
 		position: absolute;
 		width: 190px;
