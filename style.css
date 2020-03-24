@@ -155,7 +155,7 @@
 	  margin: 0 auto;
 	}
 
-@media (max-width: 375px) {
+@media (max-width: 425px) {
 	.header {
 		width: 85%;
 		height: 90px;
@@ -275,7 +275,7 @@
 	display: none;
 	}
 }
-@media (min-width: 376px) and (max-width: 767px) {
+@media (min-width: 426px) and (max-width: 767px) {
 	
 	.main-wrap{
 		flex-direction: column-reverse;
