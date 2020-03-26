@@ -306,6 +306,9 @@
 		margin: 0 auto;
 		justify-content: center;
 	}
+	.info__content {
+    max-width: 100%;
+	}
 	.info__title {
 		align-items: center;
     justify-content: center;
@@ -337,6 +340,7 @@
     margin: 6% auto;
 	}
 	.btn {
+		max-width: 100%;
 		justify-content: center;
 		margin: 0 0 6% 0;
 	}
