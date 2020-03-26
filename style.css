@@ -74,7 +74,7 @@
 		display: flex;
 		justify-content: flex-start;
 		align-items: center;
-		width: 335px;
+		width: 340px;
 		height: 45px;
 		background: #ECF3FF;
   	margin:0 0 0 36%;
@@ -319,7 +319,7 @@
 	.fill-wd {
 		justify-content: center;
     align-items: center;
-    width: 301px;
+    width: 310px;
     margin: 0 auto;
 
     font-size: 45px;
@@ -374,7 +374,7 @@
 	.fill-wd {
 		justify-content: flex-start;
     align-items: flex-end;
-    width: 269px;
+    width: 280px;
     height: 45px;
     margin: 0 0 0 10%;
 
@@ -434,7 +434,7 @@
 	.fill-wd {
 		justify-content: flex-start;
     align-items: flex-end;
-    width: 337px;
+    width: 345px;
     height: 56px;
     margin: 2% 0 0 10%;
 
@@ -481,7 +481,7 @@
     width: 100%;
 	}
 	.fill-wd {
-		width: 443px;
+		width: 455px;
     font-size: 66px;
     line-height: 87px;
     height: 67px;
